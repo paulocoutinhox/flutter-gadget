@@ -49,7 +49,7 @@ daemon/
   - `UPGRADE` → `flutter upgrade`
 
 👉 Flash the firmware using [Arduino IDE](https://www.arduino.cc/en/software) (choose ESP32 board or Arduino board).
-👉 On the ESP32 DevKit, recommended pins are **25 / 26 / 27** (safe GPIOs).
+👉 On the ESP32 C6, recommended pins are **20 / 21 / 22** (safe GPIOs).
 
 👉 Online project on Wokwi:
 https://wokwi.com/projects/440295324580074497
