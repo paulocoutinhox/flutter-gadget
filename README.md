@@ -90,7 +90,7 @@ Cross-platform details:
 ---
 
 ## 🔗 References
-- 💡 [My LinkedIn post about this gadget](https://www.linkedin.com/in/paulocoutinhox/)
+- 💡 [My LinkedIn post about this gadget](https://www.linkedin.com/posts/paulocoutinhox_flutter-esp32-cpp-activity-7365865597064081409-B1M5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFt3eYB0c4p9m-g837CTBT2OWyR5UDjsSE)
 - 📝 [Original Flutter community idea post](https://www.linkedin.com/feed/update/urn:li:activity:7365593809138675712?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFt3eYB0c4p9m-g837CTBT2OWyR5UDjsSE)
 
 ---
